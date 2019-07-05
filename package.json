@@ -1,5 +1,5 @@
 {
-  "name": "activitypub-objects",
+  "name": "node-activitypub-objects",
   "version": "0.0.3",
   "main": "dst/index.js",
   "author": "aoinu",
