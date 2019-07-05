@@ -10,3 +10,5 @@ Types for ActivityPub Entities.
 
 - [ActivityPub]( https://activitypub.rocks/ )
 - [W3C]( https://www.w3.org/TR/activitypub/ )
+
+Forked from [Aoinu/activitypub-objects](https://github.com/Aoinu/activitypub-objects)
