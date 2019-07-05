@@ -1,4 +1,5 @@
 import { ActivityObject, Objects } from "./object";
+import { URL } from "url";
 
 export class Note implements ActivityObject {
   public readonly type = Objects.NOTE;

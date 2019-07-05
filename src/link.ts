@@ -1,6 +1,7 @@
 import { ActivityObject } from "./objects/object";
 import { MediaType } from "./objects/param-types/media-type";
 import { LanguageTag } from "./objects/param-types/language-tag";
+import { URL } from "url";
 
 export interface Link {
   type: string;

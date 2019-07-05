@@ -1,5 +1,6 @@
 import { ActivityObject, Objects } from "./object";
 import { Link } from "../link";
+import { URL } from "url";
 
 export class Document implements ActivityObject {
   public readonly type = Objects.DOCUMENT;

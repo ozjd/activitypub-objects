@@ -1,6 +1,7 @@
 import { IntransitiveActivity, Activities } from "./activity";
 import { ActivityObject } from "../objects/object";
 import { InvalidPropertiesError } from "../exceptions/invalid-properties-error";
+import { URL } from "url";
 
 /**
  * https://www.w3.org/TR/activitystreams-vocabulary/#dfn-question

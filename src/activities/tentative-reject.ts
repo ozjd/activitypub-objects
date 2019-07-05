@@ -1,6 +1,7 @@
 import { Actor } from "../actors/actor";
 import { ActivityObject } from "../objects/object";
 import { Activity, Activities } from "./activity";
+import { URL } from "url";
 
 /**
  * https://www.w3.org/TR/activitystreams-vocabulary/#dfn-tentativereject

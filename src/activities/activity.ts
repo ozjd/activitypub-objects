@@ -1,6 +1,7 @@
 import { ActivityObject } from "../objects/object";
 import { Link } from "../link";
 import { Actor } from "../actors/actor";
+import { URL } from "url";
 
 export interface Activity extends ActivityObject {
   actor?: Actor | URL | Array<Actor | URL>;

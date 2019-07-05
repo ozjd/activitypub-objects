@@ -2,6 +2,7 @@ import { Link } from "../link";
 import { MediaType } from "./param-types/media-type";
 import { Image } from "./image";
 import { Collection } from "../collection";
+import { URL } from "url";
 
 export interface ActivityObject {
   type: string;

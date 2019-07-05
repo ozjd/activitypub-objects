@@ -1,4 +1,5 @@
 import { ActivityObject, Objects } from "./object";
+import { URL } from "url";
 
 export class Event implements ActivityObject {
   public readonly type = Objects.EVENT;

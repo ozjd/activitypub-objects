@@ -1,5 +1,6 @@
 import { ActivityObject, Objects } from "./object";
 import { Actor } from "../actors";
+import { URL } from "url";
 
 export class Article implements ActivityObject {
   public readonly type = Objects.ARTICLE;

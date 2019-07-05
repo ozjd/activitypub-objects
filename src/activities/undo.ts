@@ -1,5 +1,6 @@
 import { Activity, Activities } from "./activity";
 import { Actor } from "../actors/actor";
+import { URL } from "url";
 
 /**
  * https://www.w3.org/TR/activitystreams-vocabulary/#dfn-undo

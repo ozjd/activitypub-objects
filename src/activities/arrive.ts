@@ -1,6 +1,7 @@
 import { Activity, IntransitiveActivity, Activities } from "./activity";
 import { Actor } from "../actors/actor";
 import { ActivityObject } from "../objects/object";
+import { URL } from "url";
 
 /**
  * https://www.w3.org/TR/activitystreams-vocabulary/#dfn-arrive
